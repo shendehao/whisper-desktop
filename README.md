@@ -12,6 +12,8 @@ License key management · Software instance isolation · Real-time dashboard · 
 [![Element Plus](https://img.shields.io/badge/Element_Plus-2.9-409EFF?logo=element&logoColor=white)](https://element-plus.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+**[Official Website](https://commu.fun)** | **[Download Latest Release](https://github.com/shendehao/whisper-desktop/releases)**
+
 </div>
 
 ---
